@@ -7,7 +7,7 @@ I am an espiring software engineer and an enthusiastic programmer. I have dabble
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /></a>
 <a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/MagicalBean/MagicalBean/main/python5.svg"/> </a>
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/MagicalBean/MagicalBean/1cbc1085ce4119194a5f6d2df003d01976055fa7/icons/python5.svg"/> </a>
 <a href="https://www.cplusplus.com/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/MagicalBean/MagicalBean/main/icons/c%2B%2B.png"/> </a><p>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/MagicalBean/MagicalBean/main/icons/c-sharp.png"/> </a><p>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a><p>
